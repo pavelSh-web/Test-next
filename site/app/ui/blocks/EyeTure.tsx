@@ -6,7 +6,25 @@ const EyeTure = () => {
         <Container maxW='container.xl' position='relative' paddingY='70px'>
             <Text className='block-title'>Why do we want you to participate?</Text>
             <Flex gap='2.5%' background='url(/img/waves.png) no-repeat' backgroundSize='auto 100%' backgroundPosition='-50px auto'>
-                <Box flexBasis={{ lg: '66%', md: '50%' }} position='relative'>
+                <Box flexBasis={{ lg: '66%', md: '50%' }} position='relative' fontWeight='600' fontSize='32px'>
+                    <Box position='absolute'
+                         bottom='0'
+                         left='0'
+                         width='100%'
+                    >
+                        <Text maxWidth='490px'>This project will become gold, the light at the end of the tunnel.</Text>
+                        <Text  maxWidth='346px'>The very project about which they will say:</Text>
+                        <Flex direction='column' align='flex-end'>
+                            <Box>
+                                <Text fontSize='18px' fontWeight='400'>FOMO – </Text>
+                                <Text>“In vain we then decided to flip”</Text>
+                            </Box>
+                            <Box>
+                                <Text fontSize='18px' fontWeight='400'>and HOLDers – </Text>
+                                <Text>“Not in vain we then entrusted our money”</Text>
+                            </Box>
+                        </Flex>
+                    </Box>
                 </Box>
                 <Box className='gradient-bg' flexBasis={{ lg: '33%', md: '50%', sm: '50%' }} padding='10px'>
                     <Text marginBottom={{ lg: '23%', md: '3%', sm: '3%' }}>We have told you about what the project is, what opportunities it opens up, why you can make money on it and why it is worth following us, helping in all possible ways. </Text>
