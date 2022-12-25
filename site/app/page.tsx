@@ -3,7 +3,7 @@
 import Header from './ui/blocks/Header';
 import chakraTheme from '@utils/initChakraTheme';
 import { ChakraProvider } from '@chakra-ui/provider';
-import { Box } from '@chakra-ui/react';
+import { Box, Show } from '@chakra-ui/react';
 
 import FirstScreen from './ui/blocks/FirstScreen';
 import EyeInfo from './ui/blocks/EyeInfo';
@@ -17,10 +17,12 @@ import FooterSocials from './ui/blocks/Socials';
 export default function Home() {
     return (
         <ChakraProvider theme={ chakraTheme } resetCSS={ true }>
-            <Box fontSize={{ lg: '18px', md: '16px', sm: '16px' }}>
-                <Box position='absolute' zIndex='100' width='100%'>
-                    <Header />
-                </Box>
+            <Box fontSize={{ lg: '18px', md: '16px', s: '15px', sm: '14px' }}>
+                <Show above='md'>
+                    <Box position='absolute' zIndex='100' width='100%'>
+                        <Header />
+                    </Box>
+                </Show>
                 <FirstScreen />
                 <EyeInfo />
                 <EyeTure />
