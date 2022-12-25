@@ -1,0 +1,52 @@
+.hidden-content-box {
+    position: relative;
+    width: 100%;
+    height: max-content;
+
+    background: var(--main-black);
+    border-radius: 10px;
+    overflow: hidden;
+
+    &__text,
+    &__image {
+        width: 100%;
+        height: 100%;
+    }
+
+    &__image {
+        object-fit: cover;
+        border-radius: inherit;
+    }
+
+    &__text {
+        padding: 5.8%  7.8%;
+    }
+
+    &__overlay {
+        transition: opacity 0.35s ease;
+        user-select: none;
+
+        &.bordered {
+            border: 1px solid var(--main-white);
+        }
+    }
+
+    &__overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+
+        background: var(--main-black);
+        border-radius: inherit;
+
+
+    }
+
+    &:hover {
+        .hidden-content-box__overlay {
+            opacity: 0;
+        }
+    }
+}

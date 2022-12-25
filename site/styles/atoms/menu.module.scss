@@ -1,0 +1,13 @@
+.navbar-menu {
+    display: flex;
+    gap: 20px;
+    font-weight: 500;
+
+    &__item {
+        color: var(--main-white);
+
+        &:hover {
+            color: var(--main-yellow);
+        }
+    }
+}

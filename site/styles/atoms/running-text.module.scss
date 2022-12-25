@@ -1,0 +1,21 @@
+.running-text {
+    display: inline-block;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-repeat: no-repeat;
+    background-color: var(--main-white);
+    background-image: linear-gradient(
+                    90deg,
+                    #ff7070 0%,
+                    #e02222 15.77%,
+                    #ff7f00 54.95%,
+                    #9747ff 98.97%
+    );
+    background-size: 95%;
+    background-position: -1950%;
+    transition: background-position 1.2s ease;
+
+    &:hover {
+        background-position: 2250%;
+    }
+}

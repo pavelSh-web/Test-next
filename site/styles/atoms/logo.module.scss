@@ -1,0 +1,23 @@
+.logo {
+    text-align: left;
+    display: inline-block;
+
+    &:hover .logo-main {
+        background-position: -30px 0;
+    }
+
+    &-main {
+        font-family: RetroLandMayhem, Exo, sans-serif;
+        font-size: 26px;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-image: url("../../public/img/logo-bg.jpg");
+        transition: background-position 0.1s ease;
+        background-position: -190px 0;
+    }
+
+    &-desc {
+        font-size: 17px;
+        font-weight: 400;
+    }
+}

@@ -1,0 +1,30 @@
+.button {
+    padding: 4px 16px;
+    border: 1px solid var(--main-white);
+    color: var(--main-white);
+    border-radius: 34px;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 500;
+    background: var(--main-black);
+    text-align: center;
+
+    white-space: nowrap;
+
+    &:hover {
+        color: var(--main-white) !important;
+        background: var(--main-yellow);
+        border-color: transparent;
+    }
+
+    &.colored {
+        color: var(--main-yellow);
+    }
+
+    &.large {
+        font-size: 24px;
+        padding: 10px;
+        width: 100%;
+    }
+}
