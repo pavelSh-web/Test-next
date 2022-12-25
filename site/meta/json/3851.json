@@ -1,0 +1,42 @@
+{
+  "name": "ALLinONE #3851",
+  "description": "ALLinONE NFTPass. The project with a lot of features that you haven't seen ever. These NFTs are imbued with our sleepless nights, concepts and ideas. Follow our project on Twitter: twitter.com/ALLinONE_Aptos",
+  "image": "ipfs://QmUKBPhUGiAFGHEZ9yWC5bgiZPPM9SThs1j8gFdeyF7tRB/3851.png",
+  "dna": "3957418d514266893b88506487ad908f8ee85591",
+  "edition": 3851,
+  "date": 1670778457366,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "BackgroundParticles",
+      "value": "Women"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "Angry Hell"
+    },
+    {
+      "trait_type": "Tiote",
+      "value": "Web"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Babuto"
+    },
+    {
+      "trait_type": "Eyelashes",
+      "value": "Swamp Story"
+    },
+    {
+      "trait_type": "Mucosa",
+      "value": "Pink Atmosphere"
+    }
+  ]
+}

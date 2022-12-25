@@ -1,0 +1,46 @@
+{
+  "name": "ALLinONE #2033",
+  "description": "ALLinONE NFTPass. The project with a lot of features that you haven't seen ever. These NFTs are imbued with our sleepless nights, concepts and ideas. Follow our project on Twitter: twitter.com/ALLinONE_Aptos",
+  "image": "ipfs://QmUKBPhUGiAFGHEZ9yWC5bgiZPPM9SThs1j8gFdeyF7tRB/2033.png",
+  "dna": "a8e5f14ab81162555e5353e05ec3ce36dd503eca",
+  "edition": 2033,
+  "date": 1670778460942,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aid Green X"
+    },
+    {
+      "trait_type": "BackgroundParticles",
+      "value": "The Tie"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "Girl15yo Cry Ocean"
+    },
+    {
+      "trait_type": "Piercing",
+      "value": "Earb"
+    },
+    {
+      "trait_type": "Tiote",
+      "value": "Weave"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Sharp"
+    },
+    {
+      "trait_type": "Eyelashes",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Mucosa",
+      "value": "White Air"
+    }
+  ]
+}

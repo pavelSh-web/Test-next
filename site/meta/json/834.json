@@ -1,0 +1,42 @@
+{
+  "name": "ALLinONE #834",
+  "description": "ALLinONE NFTPass. The project with a lot of features that you haven't seen ever. These NFTs are imbued with our sleepless nights, concepts and ideas. Follow our project on Twitter: twitter.com/ALLinONE_Aptos",
+  "image": "ipfs://QmUKBPhUGiAFGHEZ9yWC5bgiZPPM9SThs1j8gFdeyF7tRB/834.png",
+  "dna": "c3259e93ff62ee2f18ede4668a99521b80792f00",
+  "edition": 834,
+  "date": 1670778455289,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bloody Moon"
+    },
+    {
+      "trait_type": "BackgroundParticles",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "Humbol Lian"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "Girl15yo Ocean"
+    },
+    {
+      "trait_type": "Tiote",
+      "value": "Dirty Dreams"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Thorn"
+    },
+    {
+      "trait_type": "Eyelashes",
+      "value": "Hellcat"
+    },
+    {
+      "trait_type": "Mucosa",
+      "value": "White Air"
+    }
+  ]
+}

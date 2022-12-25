@@ -1,0 +1,46 @@
+{
+  "name": "ALLinONE #3332",
+  "description": "ALLinONE NFTPass. The project with a lot of features that you haven't seen ever. These NFTs are imbued with our sleepless nights, concepts and ideas. Follow our project on Twitter: twitter.com/ALLinONE_Aptos",
+  "image": "ipfs://QmUKBPhUGiAFGHEZ9yWC5bgiZPPM9SThs1j8gFdeyF7tRB/3332.png",
+  "dna": "5edd64d322eb235cfc81962aadcaa45702d69ec1",
+  "edition": 3332,
+  "date": 1670778476925,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Like"
+    },
+    {
+      "trait_type": "BackgroundParticles",
+      "value": "Fallen Angel"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "Humho"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "N Boylover"
+    },
+    {
+      "trait_type": "Piercing",
+      "value": "Gold Eyebrow"
+    },
+    {
+      "trait_type": "Tiote",
+      "value": "Sand Dunes"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Chip"
+    },
+    {
+      "trait_type": "Eyelashes",
+      "value": "Yellow2D"
+    },
+    {
+      "trait_type": "Mucosa",
+      "value": "Pink Atmosphere"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "ALLinONE #2150",
+  "description": "ALLinONE NFTPass. The project with a lot of features that you haven't seen ever. These NFTs are imbued with our sleepless nights, concepts and ideas. Follow our project on Twitter: twitter.com/ALLinONE_Aptos",
+  "image": "ipfs://QmUKBPhUGiAFGHEZ9yWC5bgiZPPM9SThs1j8gFdeyF7tRB/2150.png",
+  "dna": "050b0995b14b9c95262963cf837f7b95d3ba01ea",
+  "edition": 2150,
+  "date": 1670778463525,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night City"
+    },
+    {
+      "trait_type": "BackgroundParticles",
+      "value": "Makhaon"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "Humbol Lian"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "Caterpillar Hell"
+    },
+    {
+      "trait_type": "Piercing",
+      "value": "Twoitems"
+    },
+    {
+      "trait_type": "Tiote",
+      "value": "Overflow"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Eyelashes",
+      "value": "Extrapower"
+    },
+    {
+      "trait_type": "Mucosa",
+      "value": "Air"
+    }
+  ]
+}

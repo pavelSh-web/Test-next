@@ -1,0 +1,46 @@
+{
+  "name": "ALLinONE #3554",
+  "description": "ALLinONE NFTPass. The project with a lot of features that you haven't seen ever. These NFTs are imbued with our sleepless nights, concepts and ideas. Follow our project on Twitter: twitter.com/ALLinONE_Aptos",
+  "image": "ipfs://QmUKBPhUGiAFGHEZ9yWC5bgiZPPM9SThs1j8gFdeyF7tRB/3554.png",
+  "dna": "e2c6ef33a304637c573f49b610387035959caa05",
+  "edition": 3554,
+  "date": 1670778473389,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lead Grey"
+    },
+    {
+      "trait_type": "BackgroundParticles",
+      "value": "Skiny Demon"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "Sapfire"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "Chicky N"
+    },
+    {
+      "trait_type": "Piercing",
+      "value": "Helix"
+    },
+    {
+      "trait_type": "Tiote",
+      "value": "Lgbtlife"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Sunsetoflove"
+    },
+    {
+      "trait_type": "Eyelashes",
+      "value": "Golden Blood"
+    },
+    {
+      "trait_type": "Mucosa",
+      "value": "Vine"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "ALLinONE #1997",
+  "description": "ALLinONE NFTPass. The project with a lot of features that you haven't seen ever. These NFTs are imbued with our sleepless nights, concepts and ideas. Follow our project on Twitter: twitter.com/ALLinONE_Aptos",
+  "image": "ipfs://QmUKBPhUGiAFGHEZ9yWC5bgiZPPM9SThs1j8gFdeyF7tRB/1997.png",
+  "dna": "b5f05a44ccc1795d9a10a8379e7c5bef11951340",
+  "edition": 1997,
+  "date": 1670778439728,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Open White"
+    },
+    {
+      "trait_type": "BackgroundParticles",
+      "value": "Kukold"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "Hearts"
+    },
+    {
+      "trait_type": "Tiote",
+      "value": "Red Blood"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Black Hole"
+    },
+    {
+      "trait_type": "Eyelashes",
+      "value": "Golden Story"
+    },
+    {
+      "trait_type": "Mucosa",
+      "value": "Fire"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "ALLinONE #1336",
+  "description": "ALLinONE NFTPass. The project with a lot of features that you haven't seen ever. These NFTs are imbued with our sleepless nights, concepts and ideas. Follow our project on Twitter: twitter.com/ALLinONE_Aptos",
+  "image": "ipfs://QmUKBPhUGiAFGHEZ9yWC5bgiZPPM9SThs1j8gFdeyF7tRB/1336.png",
+  "dna": "2d6e8a05e20127b343d8abc16a6ab502ae290f4f",
+  "edition": 1336,
+  "date": 1670778455851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Colorful Waves"
+    },
+    {
+      "trait_type": "BackgroundParticles",
+      "value": "Fire Glyph"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "Alom"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "Ocean Boylover"
+    },
+    {
+      "trait_type": "Tiote",
+      "value": "Nwordn"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Purpule Empty"
+    },
+    {
+      "trait_type": "Eyelashes",
+      "value": "Coral Ocean"
+    },
+    {
+      "trait_type": "Mucosa",
+      "value": "Air"
+    }
+  ]
+}

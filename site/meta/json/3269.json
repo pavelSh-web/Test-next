@@ -1,0 +1,46 @@
+{
+  "name": "ALLinONE #3269",
+  "description": "ALLinONE NFTPass. The project with a lot of features that you haven't seen ever. These NFTs are imbued with our sleepless nights, concepts and ideas. Follow our project on Twitter: twitter.com/ALLinONE_Aptos",
+  "image": "ipfs://QmUKBPhUGiAFGHEZ9yWC5bgiZPPM9SThs1j8gFdeyF7tRB/3269.png",
+  "dna": "979e1c74fb5d8a3abf6998fe0c8b9893f2e482f3",
+  "edition": 3269,
+  "date": 1670778481362,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bloody Waves"
+    },
+    {
+      "trait_type": "BackgroundParticles",
+      "value": "The Tie"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "Hobnil Simple"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "Chicky Down N"
+    },
+    {
+      "trait_type": "Piercing",
+      "value": "Tragus"
+    },
+    {
+      "trait_type": "Tiote",
+      "value": "Jafruit"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Pain Of Earth"
+    },
+    {
+      "trait_type": "Eyelashes",
+      "value": "Swamp Story"
+    },
+    {
+      "trait_type": "Mucosa",
+      "value": "Tears"
+    }
+  ]
+}

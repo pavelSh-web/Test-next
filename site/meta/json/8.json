@@ -1,0 +1,46 @@
+{
+  "name": "ALLinONE #8",
+  "description": "ALLinONE NFTPass. The project with a lot of features that you haven't seen ever. These NFTs are imbued with our sleepless nights, concepts and ideas. Follow our project on Twitter: twitter.com/ALLinONE_Aptos",
+  "image": "ipfs://QmUKBPhUGiAFGHEZ9yWC5bgiZPPM9SThs1j8gFdeyF7tRB/8.png",
+  "dna": "45ab0d916e7a9b3651ca146e00ca5f7c4f2d9cf8",
+  "edition": 8,
+  "date": 1670778468960,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aid Blue X"
+    },
+    {
+      "trait_type": "BackgroundParticles",
+      "value": "Skiny Angel"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "Lokte Black"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "Girl15yo Cry N"
+    },
+    {
+      "trait_type": "Piercing",
+      "value": "Earb"
+    },
+    {
+      "trait_type": "Tiote",
+      "value": "Portal"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Thorn"
+    },
+    {
+      "trait_type": "Eyelashes",
+      "value": "Redbone"
+    },
+    {
+      "trait_type": "Mucosa",
+      "value": "Acid Pink"
+    }
+  ]
+}

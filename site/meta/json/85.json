@@ -1,0 +1,46 @@
+{
+  "name": "ALLinONE #85",
+  "description": "ALLinONE NFTPass. The project with a lot of features that you haven't seen ever. These NFTs are imbued with our sleepless nights, concepts and ideas. Follow our project on Twitter: twitter.com/ALLinONE_Aptos",
+  "image": "ipfs://QmUKBPhUGiAFGHEZ9yWC5bgiZPPM9SThs1j8gFdeyF7tRB/85.png",
+  "dna": "46422b76467c76cc0d22a7def50fbd9d90d6c153",
+  "edition": 85,
+  "date": 1670778483729,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Castle Windows"
+    },
+    {
+      "trait_type": "BackgroundParticles",
+      "value": "The Tie"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "Kisin Pink"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "Surprised Fire"
+    },
+    {
+      "trait_type": "Piercing",
+      "value": "Wam"
+    },
+    {
+      "trait_type": "Tiote",
+      "value": "Portal"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Sweet Red"
+    },
+    {
+      "trait_type": "Eyelashes",
+      "value": "Purple Mystery"
+    },
+    {
+      "trait_type": "Mucosa",
+      "value": "Dot"
+    }
+  ]
+}

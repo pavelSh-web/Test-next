@@ -1,0 +1,38 @@
+{
+  "name": "ALLinONE #1107",
+  "description": "ALLinONE NFTPass. The project with a lot of features that you haven't seen ever. These NFTs are imbued with our sleepless nights, concepts and ideas. Follow our project on Twitter: twitter.com/ALLinONE_Aptos",
+  "image": "ipfs://QmUKBPhUGiAFGHEZ9yWC5bgiZPPM9SThs1j8gFdeyF7tRB/1107.png",
+  "dna": "8efe76722f2e21dcd229d9eeab5714c78124e098",
+  "edition": 1107,
+  "date": 1670778442700,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blurred Galaxy"
+    },
+    {
+      "trait_type": "BackgroundParticles",
+      "value": "Asshole"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "Humbol Lian"
+    },
+    {
+      "trait_type": "Tiote",
+      "value": "Cucumber"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Clear Blood"
+    },
+    {
+      "trait_type": "Eyelashes",
+      "value": "Bloody Vampire"
+    },
+    {
+      "trait_type": "Mucosa",
+      "value": "Gold"
+    }
+  ]
+}

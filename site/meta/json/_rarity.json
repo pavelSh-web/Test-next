@@ -1,0 +1,2117 @@
+{
+  "Background": [
+    {
+      "trait": "Aid Blue X",
+      "weight": "9",
+      "occurrence": "161 in 4447 editions (3.62 %)"
+    },
+    {
+      "trait": "Aid Green X",
+      "weight": "9",
+      "occurrence": "128 in 4447 editions (2.88 %)"
+    },
+    {
+      "trait": "BTC 100K",
+      "weight": "1",
+      "occurrence": "12 in 4447 editions (0.27 %)"
+    },
+    {
+      "trait": "Black In Grey",
+      "weight": "9",
+      "occurrence": "155 in 4447 editions (3.49 %)"
+    },
+    {
+      "trait": "Bloody Moon",
+      "weight": "3",
+      "occurrence": "37 in 4447 editions (0.83 %)"
+    },
+    {
+      "trait": "Bloody Waves",
+      "weight": "3",
+      "occurrence": "62 in 4447 editions (1.39 %)"
+    },
+    {
+      "trait": "Blurred Colors",
+      "weight": "9",
+      "occurrence": "141 in 4447 editions (3.17 %)"
+    },
+    {
+      "trait": "Blurred Galaxy",
+      "weight": "9",
+      "occurrence": "143 in 4447 editions (3.22 %)"
+    },
+    {
+      "trait": "Calm View",
+      "weight": "5",
+      "occurrence": "94 in 4447 editions (2.11 %)"
+    },
+    {
+      "trait": "Castle Windows",
+      "weight": "5",
+      "occurrence": "76 in 4447 editions (1.71 %)"
+    },
+    {
+      "trait": "Cold Fire",
+      "weight": "7",
+      "occurrence": "125 in 4447 editions (2.81 %)"
+    },
+    {
+      "trait": "Colorful Waves",
+      "weight": "9",
+      "occurrence": "148 in 4447 editions (3.33 %)"
+    },
+    {
+      "trait": "DFDFDF",
+      "weight": "10",
+      "occurrence": "204 in 4447 editions (4.59 %)"
+    },
+    {
+      "trait": "Fuck_BTC",
+      "weight": "1",
+      "occurrence": "14 in 4447 editions (0.31 %)"
+    },
+    {
+      "trait": "Green Day",
+      "weight": "1",
+      "occurrence": "17 in 4447 editions (0.38 %)"
+    },
+    {
+      "trait": "Interferences",
+      "weight": "7",
+      "occurrence": "122 in 4447 editions (2.74 %)"
+    },
+    {
+      "trait": "Lead Grey",
+      "weight": "9",
+      "occurrence": "167 in 4447 editions (3.76 %)"
+    },
+    {
+      "trait": "Light Green",
+      "weight": "10",
+      "occurrence": "193 in 4447 editions (4.34 %)"
+    },
+    {
+      "trait": "N Word",
+      "weight": "10",
+      "occurrence": "177 in 4447 editions (3.98 %)"
+    },
+    {
+      "trait": "Night City",
+      "weight": "5",
+      "occurrence": "87 in 4447 editions (1.96 %)"
+    },
+    {
+      "trait": "Night Sky",
+      "weight": "5",
+      "occurrence": "88 in 4447 editions (1.98 %)"
+    },
+    {
+      "trait": "Ocean Water",
+      "weight": "3",
+      "occurrence": "54 in 4447 editions (1.21 %)"
+    },
+    {
+      "trait": "Open White",
+      "weight": "10",
+      "occurrence": "170 in 4447 editions (3.82 %)"
+    },
+    {
+      "trait": "Orange Like",
+      "weight": "10",
+      "occurrence": "174 in 4447 editions (3.91 %)"
+    },
+    {
+      "trait": "Pink Interferences",
+      "weight": "7",
+      "occurrence": "138 in 4447 editions (3.10 %)"
+    },
+    {
+      "trait": "Pink Waves",
+      "weight": "9",
+      "occurrence": "149 in 4447 editions (3.35 %)"
+    },
+    {
+      "trait": "Purple",
+      "weight": "10",
+      "occurrence": "191 in 4447 editions (4.30 %)"
+    },
+    {
+      "trait": "Rainbow",
+      "weight": "7",
+      "occurrence": "120 in 4447 editions (2.70 %)"
+    },
+    {
+      "trait": "Red",
+      "weight": "10",
+      "occurrence": "195 in 4447 editions (4.38 %)"
+    },
+    {
+      "trait": "Simple Blue",
+      "weight": "10",
+      "occurrence": "181 in 4447 editions (4.07 %)"
+    },
+    {
+      "trait": "Some Green",
+      "weight": "10",
+      "occurrence": "174 in 4447 editions (3.91 %)"
+    },
+    {
+      "trait": "Sunset",
+      "weight": "5",
+      "occurrence": "88 in 4447 editions (1.98 %)"
+    },
+    {
+      "trait": "Swamp Style",
+      "weight": "9",
+      "occurrence": "147 in 4447 editions (3.31 %)"
+    },
+    {
+      "trait": "TV Interferences",
+      "weight": "7",
+      "occurrence": "116 in 4447 editions (2.61 %)"
+    },
+    {
+      "trait": "Warm Point",
+      "weight": "7",
+      "occurrence": "128 in 4447 editions (2.88 %)"
+    },
+    {
+      "trait": "Wow Forest",
+      "weight": "1",
+      "occurrence": "20 in 4447 editions (0.45 %)"
+    }
+  ],
+  "BackgroundParticles": [
+    {
+      "trait": "Angel Nimbus",
+      "weight": "9",
+      "occurrence": "149 in 4447 editions (3.35 %)"
+    },
+    {
+      "trait": "Asshole",
+      "weight": "5",
+      "occurrence": "88 in 4447 editions (1.98 %)"
+    },
+    {
+      "trait": "Devils",
+      "weight": "3",
+      "occurrence": "54 in 4447 editions (1.21 %)"
+    },
+    {
+      "trait": "Kukold",
+      "weight": "5",
+      "occurrence": "83 in 4447 editions (1.87 %)"
+    },
+    {
+      "trait": "Ocean Nimbus",
+      "weight": "9",
+      "occurrence": "138 in 4447 editions (3.10 %)"
+    },
+    {
+      "trait": "Once In Month Nimbus",
+      "weight": "9",
+      "occurrence": "203 in 4447 editions (4.56 %)"
+    },
+    {
+      "trait": "White But Same",
+      "weight": "5",
+      "occurrence": "92 in 4447 editions (2.07 %)"
+    },
+    {
+      "trait": "Сat Ears",
+      "weight": "3",
+      "occurrence": "53 in 4447 editions (1.19 %)"
+    }
+  ],
+  "Makeup": [
+    {
+      "trait": "Acan Simple",
+      "weight": "9",
+      "occurrence": "158 in 4447 editions (3.55 %)"
+    },
+    {
+      "trait": "Acan",
+      "weight": "1",
+      "occurrence": "14 in 4447 editions (0.31 %)"
+    },
+    {
+      "trait": "Alom",
+      "weight": "10",
+      "occurrence": "163 in 4447 editions (3.67 %)"
+    },
+    {
+      "trait": "Ametist Double",
+      "weight": "10",
+      "occurrence": "154 in 4447 editions (3.46 %)"
+    },
+    {
+      "trait": "Ametist",
+      "weight": "10",
+      "occurrence": "135 in 4447 editions (3.04 %)"
+    },
+    {
+      "trait": "Avilics",
+      "weight": "5",
+      "occurrence": "95 in 4447 editions (2.14 %)"
+    },
+    {
+      "trait": "Bito",
+      "weight": "7",
+      "occurrence": "127 in 4447 editions (2.86 %)"
+    },
+    {
+      "trait": "Chin Ocean",
+      "weight": "3",
+      "occurrence": "51 in 4447 editions (1.15 %)"
+    },
+    {
+      "trait": "Chin",
+      "weight": "3",
+      "occurrence": "49 in 4447 editions (1.10 %)"
+    },
+    {
+      "trait": "Chuaj",
+      "weight": "10",
+      "occurrence": "194 in 4447 editions (4.36 %)"
+    },
+    {
+      "trait": "Emerald",
+      "weight": "1",
+      "occurrence": "19 in 4447 editions (0.43 %)"
+    },
+    {
+      "trait": "Hearts",
+      "weight": "7",
+      "occurrence": "151 in 4447 editions (3.40 %)"
+    },
+    {
+      "trait": "Hobnil Simple",
+      "weight": "9",
+      "occurrence": "152 in 4447 editions (3.42 %)"
+    },
+    {
+      "trait": "Hobnil",
+      "weight": "5",
+      "occurrence": "84 in 4447 editions (1.89 %)"
+    },
+    {
+      "trait": "Humbol Hell",
+      "weight": "10",
+      "occurrence": "173 in 4447 editions (3.89 %)"
+    },
+    {
+      "trait": "Humbol Lian",
+      "weight": "10",
+      "occurrence": "179 in 4447 editions (4.03 %)"
+    },
+    {
+      "trait": "Humho Sun",
+      "weight": "5",
+      "occurrence": "72 in 4447 editions (1.62 %)"
+    },
+    {
+      "trait": "Humho",
+      "weight": "10",
+      "occurrence": "170 in 4447 editions (3.82 %)"
+    },
+    {
+      "trait": "Ixam",
+      "weight": "3",
+      "occurrence": "49 in 4447 editions (1.10 %)"
+    },
+    {
+      "trait": "Ixtab",
+      "weight": "9",
+      "occurrence": "153 in 4447 editions (3.44 %)"
+    },
+    {
+      "trait": "Kavil",
+      "weight": "10",
+      "occurrence": "159 in 4447 editions (3.58 %)"
+    },
+    {
+      "trait": "Kisin Pink",
+      "weight": "9",
+      "occurrence": "164 in 4447 editions (3.69 %)"
+    },
+    {
+      "trait": "Kisin",
+      "weight": "9",
+      "occurrence": "148 in 4447 editions (3.33 %)"
+    },
+    {
+      "trait": "Lance",
+      "weight": "7",
+      "occurrence": "121 in 4447 editions (2.72 %)"
+    },
+    {
+      "trait": "Lokte Black",
+      "weight": "9",
+      "occurrence": "151 in 4447 editions (3.40 %)"
+    },
+    {
+      "trait": "Lokte Bloody",
+      "weight": "9",
+      "occurrence": "140 in 4447 editions (3.15 %)"
+    },
+    {
+      "trait": "Lokte",
+      "weight": "9",
+      "occurrence": "141 in 4447 editions (3.17 %)"
+    },
+    {
+      "trait": "Love More",
+      "weight": "7",
+      "occurrence": "125 in 4447 editions (2.81 %)"
+    },
+    {
+      "trait": "Love",
+      "weight": "7",
+      "occurrence": "111 in 4447 editions (2.50 %)"
+    },
+    {
+      "trait": "Moonable",
+      "weight": "7",
+      "occurrence": "114 in 4447 editions (2.56 %)"
+    },
+    {
+      "trait": "Nolove",
+      "weight": "7",
+      "occurrence": "126 in 4447 editions (2.83 %)"
+    },
+    {
+      "trait": "Prison",
+      "weight": "5",
+      "occurrence": "77 in 4447 editions (1.73 %)"
+    },
+    {
+      "trait": "Qeq",
+      "weight": "10",
+      "occurrence": "168 in 4447 editions (3.78 %)"
+    },
+    {
+      "trait": "Sapfire",
+      "weight": "10",
+      "occurrence": "163 in 4447 editions (3.67 %)"
+    },
+    {
+      "trait": "Sucub",
+      "weight": "9",
+      "occurrence": "146 in 4447 editions (3.28 %)"
+    }
+  ],
+  "Tiote": [
+    {
+      "trait": "Allwhite",
+      "weight": "1",
+      "occurrence": "16 in 4447 editions (0.36 %)"
+    },
+    {
+      "trait": "Branches",
+      "weight": "9",
+      "occurrence": "161 in 4447 editions (3.62 %)"
+    },
+    {
+      "trait": "Cucumber",
+      "weight": "10",
+      "occurrence": "175 in 4447 editions (3.94 %)"
+    },
+    {
+      "trait": "Defect",
+      "weight": "7",
+      "occurrence": "108 in 4447 editions (2.43 %)"
+    },
+    {
+      "trait": "Depression",
+      "weight": "5",
+      "occurrence": "102 in 4447 editions (2.29 %)"
+    },
+    {
+      "trait": "Dirty Dreams",
+      "weight": "10",
+      "occurrence": "165 in 4447 editions (3.71 %)"
+    },
+    {
+      "trait": "Dragon",
+      "weight": "10",
+      "occurrence": "164 in 4447 editions (3.69 %)"
+    },
+    {
+      "trait": "Dust",
+      "weight": "7",
+      "occurrence": "136 in 4447 editions (3.06 %)"
+    },
+    {
+      "trait": "Fresh Air",
+      "weight": "9",
+      "occurrence": "176 in 4447 editions (3.96 %)"
+    },
+    {
+      "trait": "Graffiti",
+      "weight": "3",
+      "occurrence": "46 in 4447 editions (1.03 %)"
+    },
+    {
+      "trait": "Jafruit",
+      "weight": "10",
+      "occurrence": "184 in 4447 editions (4.14 %)"
+    },
+    {
+      "trait": "Lgbtlife",
+      "weight": "3",
+      "occurrence": "59 in 4447 editions (1.33 %)"
+    },
+    {
+      "trait": "Mirror",
+      "weight": "9",
+      "occurrence": "140 in 4447 editions (3.15 %)"
+    },
+    {
+      "trait": "Nwordn",
+      "weight": "1",
+      "occurrence": "16 in 4447 editions (0.36 %)"
+    },
+    {
+      "trait": "On Me",
+      "weight": "9",
+      "occurrence": "161 in 4447 editions (3.62 %)"
+    },
+    {
+      "trait": "Overflow",
+      "weight": "10",
+      "occurrence": "158 in 4447 editions (3.55 %)"
+    },
+    {
+      "trait": "Pastic",
+      "weight": "9",
+      "occurrence": "161 in 4447 editions (3.62 %)"
+    },
+    {
+      "trait": "Pencile",
+      "weight": "5",
+      "occurrence": "102 in 4447 editions (2.29 %)"
+    },
+    {
+      "trait": "Portal",
+      "weight": "10",
+      "occurrence": "184 in 4447 editions (4.14 %)"
+    },
+    {
+      "trait": "Poseidon",
+      "weight": "10",
+      "occurrence": "149 in 4447 editions (3.35 %)"
+    },
+    {
+      "trait": "Rear",
+      "weight": "9",
+      "occurrence": "153 in 4447 editions (3.44 %)"
+    },
+    {
+      "trait": "Red Blood",
+      "weight": "10",
+      "occurrence": "167 in 4447 editions (3.76 %)"
+    },
+    {
+      "trait": "Sand Dunes",
+      "weight": "10",
+      "occurrence": "191 in 4447 editions (4.30 %)"
+    },
+    {
+      "trait": "Sandy",
+      "weight": "10",
+      "occurrence": "183 in 4447 editions (4.12 %)"
+    },
+    {
+      "trait": "Sapphire",
+      "weight": "10",
+      "occurrence": "172 in 4447 editions (3.87 %)"
+    },
+    {
+      "trait": "Spider",
+      "weight": "7",
+      "occurrence": "148 in 4447 editions (3.33 %)"
+    },
+    {
+      "trait": "Stars",
+      "weight": "3",
+      "occurrence": "62 in 4447 editions (1.39 %)"
+    },
+    {
+      "trait": "Strange",
+      "weight": "7",
+      "occurrence": "131 in 4447 editions (2.95 %)"
+    },
+    {
+      "trait": "The Big Bro",
+      "weight": "1",
+      "occurrence": "20 in 4447 editions (0.45 %)"
+    },
+    {
+      "trait": "Turquoise",
+      "weight": "5",
+      "occurrence": "100 in 4447 editions (2.25 %)"
+    },
+    {
+      "trait": "Weave",
+      "weight": "5",
+      "occurrence": "95 in 4447 editions (2.14 %)"
+    },
+    {
+      "trait": "Web Of Spider",
+      "weight": "7",
+      "occurrence": "116 in 4447 editions (2.61 %)"
+    },
+    {
+      "trait": "Web",
+      "weight": "9",
+      "occurrence": "163 in 4447 editions (3.67 %)"
+    },
+    {
+      "trait": "Window",
+      "weight": "9",
+      "occurrence": "132 in 4447 editions (2.97 %)"
+    }
+  ],
+  "Pupil": [
+    {
+      "trait": "Acdpink",
+      "weight": "10",
+      "occurrence": "99 in 4447 editions (2.23 %)"
+    },
+    {
+      "trait": "Acid Atmosphere",
+      "weight": "5",
+      "occurrence": "43 in 4447 editions (0.97 %)"
+    },
+    {
+      "trait": "Acid Rain",
+      "weight": "10",
+      "occurrence": "100 in 4447 editions (2.25 %)"
+    },
+    {
+      "trait": "Air Circle",
+      "weight": "10",
+      "occurrence": "78 in 4447 editions (1.75 %)"
+    },
+    {
+      "trait": "Allaroundme",
+      "weight": "5",
+      "occurrence": "49 in 4447 editions (1.10 %)"
+    },
+    {
+      "trait": "Animal",
+      "weight": "9",
+      "occurrence": "94 in 4447 editions (2.11 %)"
+    },
+    {
+      "trait": "Babuto",
+      "weight": "7",
+      "occurrence": "83 in 4447 editions (1.87 %)"
+    },
+    {
+      "trait": "Bee",
+      "weight": "5",
+      "occurrence": "44 in 4447 editions (0.99 %)"
+    },
+    {
+      "trait": "Black Hole",
+      "weight": "5",
+      "occurrence": "47 in 4447 editions (1.06 %)"
+    },
+    {
+      "trait": "Broke",
+      "weight": "9",
+      "occurrence": "92 in 4447 editions (2.07 %)"
+    },
+    {
+      "trait": "Burn Love",
+      "weight": "9",
+      "occurrence": "88 in 4447 editions (1.98 %)"
+    },
+    {
+      "trait": "Calculator",
+      "weight": "5",
+      "occurrence": "43 in 4447 editions (0.97 %)"
+    },
+    {
+      "trait": "Cat",
+      "weight": "7",
+      "occurrence": "73 in 4447 editions (1.64 %)"
+    },
+    {
+      "trait": "Chip",
+      "weight": "10",
+      "occurrence": "96 in 4447 editions (2.16 %)"
+    },
+    {
+      "trait": "Circulation",
+      "weight": "5",
+      "occurrence": "46 in 4447 editions (1.03 %)"
+    },
+    {
+      "trait": "Clear Blood",
+      "weight": "5",
+      "occurrence": "49 in 4447 editions (1.10 %)"
+    },
+    {
+      "trait": "Crater",
+      "weight": "5",
+      "occurrence": "45 in 4447 editions (1.01 %)"
+    },
+    {
+      "trait": "Crumbling Eye",
+      "weight": "5",
+      "occurrence": "53 in 4447 editions (1.19 %)"
+    },
+    {
+      "trait": "Dark Dreams",
+      "weight": "5",
+      "occurrence": "40 in 4447 editions (0.90 %)"
+    },
+    {
+      "trait": "Dark Ocean",
+      "weight": "3",
+      "occurrence": "32 in 4447 editions (0.72 %)"
+    },
+    {
+      "trait": "Deathstranding",
+      "weight": "5",
+      "occurrence": "56 in 4447 editions (1.26 %)"
+    },
+    {
+      "trait": "Dirt",
+      "weight": "5",
+      "occurrence": "42 in 4447 editions (0.94 %)"
+    },
+    {
+      "trait": "Dotg",
+      "weight": "9",
+      "occurrence": "89 in 4447 editions (2.00 %)"
+    },
+    {
+      "trait": "Earth",
+      "weight": "3",
+      "occurrence": "20 in 4447 editions (0.45 %)"
+    },
+    {
+      "trait": "Emerald",
+      "weight": "5",
+      "occurrence": "44 in 4447 editions (0.99 %)"
+    },
+    {
+      "trait": "Empty Love",
+      "weight": "9",
+      "occurrence": "80 in 4447 editions (1.80 %)"
+    },
+    {
+      "trait": "Empty Reflection",
+      "weight": "7",
+      "occurrence": "61 in 4447 editions (1.37 %)"
+    },
+    {
+      "trait": "Error",
+      "weight": "5",
+      "occurrence": "39 in 4447 editions (0.88 %)"
+    },
+    {
+      "trait": "Evil",
+      "weight": "5",
+      "occurrence": "62 in 4447 editions (1.39 %)"
+    },
+    {
+      "trait": "Feelings",
+      "weight": "9",
+      "occurrence": "83 in 4447 editions (1.87 %)"
+    },
+    {
+      "trait": "First Ring",
+      "weight": "10",
+      "occurrence": "106 in 4447 editions (2.38 %)"
+    },
+    {
+      "trait": "Fish",
+      "weight": "7",
+      "occurrence": "63 in 4447 editions (1.42 %)"
+    },
+    {
+      "trait": "Fkheart",
+      "weight": "9",
+      "occurrence": "78 in 4447 editions (1.75 %)"
+    },
+    {
+      "trait": "Fragment",
+      "weight": "5",
+      "occurrence": "47 in 4447 editions (1.06 %)"
+    },
+    {
+      "trait": "Glazblya",
+      "weight": "5",
+      "occurrence": "41 in 4447 editions (0.92 %)"
+    },
+    {
+      "trait": "Green Fall",
+      "weight": "7",
+      "occurrence": "81 in 4447 editions (1.82 %)"
+    },
+    {
+      "trait": "Green Shuriken",
+      "weight": "5",
+      "occurrence": "52 in 4447 editions (1.17 %)"
+    },
+    {
+      "trait": "Heartbeat",
+      "weight": "5",
+      "occurrence": "52 in 4447 editions (1.17 %)"
+    },
+    {
+      "trait": "Hide In Lava",
+      "weight": "5",
+      "occurrence": "43 in 4447 editions (0.97 %)"
+    },
+    {
+      "trait": "Infinity",
+      "weight": "9",
+      "occurrence": "80 in 4447 editions (1.80 %)"
+    },
+    {
+      "trait": "Jump In Holelove",
+      "weight": "5",
+      "occurrence": "50 in 4447 editions (1.12 %)"
+    },
+    {
+      "trait": "Layering",
+      "weight": "5",
+      "occurrence": "48 in 4447 editions (1.08 %)"
+    },
+    {
+      "trait": "Life",
+      "weight": "5",
+      "occurrence": "60 in 4447 editions (1.35 %)"
+    },
+    {
+      "trait": "Love",
+      "weight": "9",
+      "occurrence": "97 in 4447 editions (2.18 %)"
+    },
+    {
+      "trait": "Lovely Thron",
+      "weight": "9",
+      "occurrence": "88 in 4447 editions (1.98 %)"
+    },
+    {
+      "trait": "Nature Sphere",
+      "weight": "1",
+      "occurrence": "10 in 4447 editions (0.22 %)"
+    },
+    {
+      "trait": "Nothing",
+      "weight": "10",
+      "occurrence": "102 in 4447 editions (2.29 %)"
+    },
+    {
+      "trait": "Ocean",
+      "weight": "7",
+      "occurrence": "67 in 4447 editions (1.51 %)"
+    },
+    {
+      "trait": "Pacific",
+      "weight": "5",
+      "occurrence": "46 in 4447 editions (1.03 %)"
+    },
+    {
+      "trait": "Pain Of Earth",
+      "weight": "5",
+      "occurrence": "45 in 4447 editions (1.01 %)"
+    },
+    {
+      "trait": "Painful Life",
+      "weight": "5",
+      "occurrence": "51 in 4447 editions (1.15 %)"
+    },
+    {
+      "trait": "Pink Shine",
+      "weight": "10",
+      "occurrence": "107 in 4447 editions (2.41 %)"
+    },
+    {
+      "trait": "Purpule Empty",
+      "weight": "10",
+      "occurrence": "85 in 4447 editions (1.91 %)"
+    },
+    {
+      "trait": "Realsunset",
+      "weight": "5",
+      "occurrence": "56 in 4447 editions (1.26 %)"
+    },
+    {
+      "trait": "Runato",
+      "weight": "5",
+      "occurrence": "61 in 4447 editions (1.37 %)"
+    },
+    {
+      "trait": "Scare Blood",
+      "weight": "7",
+      "occurrence": "67 in 4447 editions (1.51 %)"
+    },
+    {
+      "trait": "Seaweed",
+      "weight": "7",
+      "occurrence": "81 in 4447 editions (1.82 %)"
+    },
+    {
+      "trait": "Sharp",
+      "weight": "5",
+      "occurrence": "51 in 4447 editions (1.15 %)"
+    },
+    {
+      "trait": "Smazka",
+      "weight": "5",
+      "occurrence": "34 in 4447 editions (0.76 %)"
+    },
+    {
+      "trait": "Smthell",
+      "weight": "5",
+      "occurrence": "52 in 4447 editions (1.17 %)"
+    },
+    {
+      "trait": "Snow In Dark",
+      "weight": "5",
+      "occurrence": "47 in 4447 editions (1.06 %)"
+    },
+    {
+      "trait": "Spreading",
+      "weight": "5",
+      "occurrence": "45 in 4447 editions (1.01 %)"
+    },
+    {
+      "trait": "Sunset",
+      "weight": "5",
+      "occurrence": "58 in 4447 editions (1.30 %)"
+    },
+    {
+      "trait": "Sunsetoflove",
+      "weight": "5",
+      "occurrence": "56 in 4447 editions (1.26 %)"
+    },
+    {
+      "trait": "Sweet Red",
+      "weight": "10",
+      "occurrence": "91 in 4447 editions (2.05 %)"
+    },
+    {
+      "trait": "The End",
+      "weight": "5",
+      "occurrence": "39 in 4447 editions (0.88 %)"
+    },
+    {
+      "trait": "Thorn",
+      "weight": "10",
+      "occurrence": "119 in 4447 editions (2.68 %)"
+    },
+    {
+      "trait": "Tonic",
+      "weight": "5",
+      "occurrence": "63 in 4447 editions (1.42 %)"
+    },
+    {
+      "trait": "Tor",
+      "weight": "5",
+      "occurrence": "48 in 4447 editions (1.08 %)"
+    },
+    {
+      "trait": "White Cherry",
+      "weight": "5",
+      "occurrence": "50 in 4447 editions (1.12 %)"
+    },
+    {
+      "trait": "ruby5",
+      "weight": "1",
+      "occurrence": "9 in 4447 editions (0.20 %)"
+    }
+  ],
+  "Eyelashes": [
+    {
+      "trait": "24h Work",
+      "weight": "9",
+      "occurrence": "149 in 4447 editions (3.35 %)"
+    },
+    {
+      "trait": "2D",
+      "weight": "10",
+      "occurrence": "177 in 4447 editions (3.98 %)"
+    },
+    {
+      "trait": "Atlantic Matrix",
+      "weight": "3",
+      "occurrence": "50 in 4447 editions (1.12 %)"
+    },
+    {
+      "trait": "Barby",
+      "weight": "10",
+      "occurrence": "171 in 4447 editions (3.85 %)"
+    },
+    {
+      "trait": "Bloody Vampire",
+      "weight": "5",
+      "occurrence": "91 in 4447 editions (2.05 %)"
+    },
+    {
+      "trait": "Carbon",
+      "weight": "3",
+      "occurrence": "52 in 4447 editions (1.17 %)"
+    },
+    {
+      "trait": "Coral Ocean",
+      "weight": "10",
+      "occurrence": "157 in 4447 editions (3.53 %)"
+    },
+    {
+      "trait": "Creeper",
+      "weight": "5",
+      "occurrence": "88 in 4447 editions (1.98 %)"
+    },
+    {
+      "trait": "Devil",
+      "weight": "7",
+      "occurrence": "107 in 4447 editions (2.41 %)"
+    },
+    {
+      "trait": "Dirty Sandbox",
+      "weight": "10",
+      "occurrence": "163 in 4447 editions (3.67 %)"
+    },
+    {
+      "trait": "Extrapower",
+      "weight": "9",
+      "occurrence": "147 in 4447 editions (3.31 %)"
+    },
+    {
+      "trait": "Fireman",
+      "weight": "9",
+      "occurrence": "130 in 4447 editions (2.92 %)"
+    },
+    {
+      "trait": "Godlike",
+      "weight": "9",
+      "occurrence": "147 in 4447 editions (3.31 %)"
+    },
+    {
+      "trait": "Golden Blood",
+      "weight": "5",
+      "occurrence": "68 in 4447 editions (1.53 %)"
+    },
+    {
+      "trait": "Golden Story",
+      "weight": "7",
+      "occurrence": "133 in 4447 editions (2.99 %)"
+    },
+    {
+      "trait": "Gorgeus Light",
+      "weight": "9",
+      "occurrence": "133 in 4447 editions (2.99 %)"
+    },
+    {
+      "trait": "Green2D",
+      "weight": "10",
+      "occurrence": "178 in 4447 editions (4.00 %)"
+    },
+    {
+      "trait": "Grey Points",
+      "weight": "3",
+      "occurrence": "37 in 4447 editions (0.83 %)"
+    },
+    {
+      "trait": "Gypnotized",
+      "weight": "5",
+      "occurrence": "92 in 4447 editions (2.07 %)"
+    },
+    {
+      "trait": "Hellcat",
+      "weight": "9",
+      "occurrence": "156 in 4447 editions (3.51 %)"
+    },
+    {
+      "trait": "Jungle",
+      "weight": "7",
+      "occurrence": "104 in 4447 editions (2.34 %)"
+    },
+    {
+      "trait": "Lian2D",
+      "weight": "10",
+      "occurrence": "171 in 4447 editions (3.85 %)"
+    },
+    {
+      "trait": "Lightning",
+      "weight": "1",
+      "occurrence": "20 in 4447 editions (0.45 %)"
+    },
+    {
+      "trait": "Manga",
+      "weight": "10",
+      "occurrence": "156 in 4447 editions (3.51 %)"
+    },
+    {
+      "trait": "Matrix",
+      "weight": "5",
+      "occurrence": "88 in 4447 editions (1.98 %)"
+    },
+    {
+      "trait": "Neon2049",
+      "weight": "7",
+      "occurrence": "115 in 4447 editions (2.59 %)"
+    },
+    {
+      "trait": "Night Clear Sky",
+      "weight": "7",
+      "occurrence": "97 in 4447 editions (2.18 %)"
+    },
+    {
+      "trait": "Plague",
+      "weight": "7",
+      "occurrence": "118 in 4447 editions (2.65 %)"
+    },
+    {
+      "trait": "Purple Mystery",
+      "weight": "7",
+      "occurrence": "132 in 4447 editions (2.97 %)"
+    },
+    {
+      "trait": "Redbone",
+      "weight": "10",
+      "occurrence": "158 in 4447 editions (3.55 %)"
+    },
+    {
+      "trait": "Sugar",
+      "weight": "9",
+      "occurrence": "145 in 4447 editions (3.26 %)"
+    },
+    {
+      "trait": "Swamp Story",
+      "weight": "9",
+      "occurrence": "164 in 4447 editions (3.69 %)"
+    },
+    {
+      "trait": "Tired Veins",
+      "weight": "9",
+      "occurrence": "158 in 4447 editions (3.55 %)"
+    },
+    {
+      "trait": "Triple N",
+      "weight": "10",
+      "occurrence": "166 in 4447 editions (3.73 %)"
+    },
+    {
+      "trait": "Yellow2D",
+      "weight": "10",
+      "occurrence": "178 in 4447 editions (4.00 %)"
+    }
+  ],
+  "Mucosa": [
+    {
+      "trait": "Acid Ink",
+      "weight": "1",
+      "occurrence": "11 in 4447 editions (0.25 %)"
+    },
+    {
+      "trait": "Acid Pink",
+      "weight": "10",
+      "occurrence": "168 in 4447 editions (3.78 %)"
+    },
+    {
+      "trait": "Air",
+      "weight": "10",
+      "occurrence": "162 in 4447 editions (3.64 %)"
+    },
+    {
+      "trait": "Allblack",
+      "weight": "10",
+      "occurrence": "134 in 4447 editions (3.01 %)"
+    },
+    {
+      "trait": "Atmosphere",
+      "weight": "9",
+      "occurrence": "143 in 4447 editions (3.22 %)"
+    },
+    {
+      "trait": "Blue Eyelid",
+      "weight": "3",
+      "occurrence": "64 in 4447 editions (1.44 %)"
+    },
+    {
+      "trait": "Candy",
+      "weight": "7",
+      "occurrence": "117 in 4447 editions (2.63 %)"
+    },
+    {
+      "trait": "Died",
+      "weight": "7",
+      "occurrence": "93 in 4447 editions (2.09 %)"
+    },
+    {
+      "trait": "Dot",
+      "weight": "9",
+      "occurrence": "147 in 4447 editions (3.31 %)"
+    },
+    {
+      "trait": "Fire",
+      "weight": "10",
+      "occurrence": "158 in 4447 editions (3.55 %)"
+    },
+    {
+      "trait": "Fun",
+      "weight": "7",
+      "occurrence": "97 in 4447 editions (2.18 %)"
+    },
+    {
+      "trait": "Geroin Chik",
+      "weight": "7",
+      "occurrence": "122 in 4447 editions (2.74 %)"
+    },
+    {
+      "trait": "Glitch",
+      "weight": "5",
+      "occurrence": "74 in 4447 editions (1.66 %)"
+    },
+    {
+      "trait": "Gold",
+      "weight": "10",
+      "occurrence": "168 in 4447 editions (3.78 %)"
+    },
+    {
+      "trait": "Grass",
+      "weight": "10",
+      "occurrence": "161 in 4447 editions (3.62 %)"
+    },
+    {
+      "trait": "Green Leaf",
+      "weight": "5",
+      "occurrence": "79 in 4447 editions (1.78 %)"
+    },
+    {
+      "trait": "Hell",
+      "weight": "9",
+      "occurrence": "148 in 4447 editions (3.33 %)"
+    },
+    {
+      "trait": "Lava",
+      "weight": "1",
+      "occurrence": "19 in 4447 editions (0.43 %)"
+    },
+    {
+      "trait": "Nature",
+      "weight": "9",
+      "occurrence": "132 in 4447 editions (2.97 %)"
+    },
+    {
+      "trait": "Pink Atmosphere",
+      "weight": "9",
+      "occurrence": "149 in 4447 editions (3.35 %)"
+    },
+    {
+      "trait": "Pink Eyelid",
+      "weight": "10",
+      "occurrence": "167 in 4447 editions (3.76 %)"
+    },
+    {
+      "trait": "Rainbow",
+      "weight": "5",
+      "occurrence": "71 in 4447 editions (1.60 %)"
+    },
+    {
+      "trait": "Rock",
+      "weight": "10",
+      "occurrence": "158 in 4447 editions (3.55 %)"
+    },
+    {
+      "trait": "Sad Blood",
+      "weight": "3",
+      "occurrence": "187 in 4447 editions (4.21 %)"
+    },
+    {
+      "trait": "Sad Blood",
+      "weight": "7",
+      "occurrence": "187 in 4447 editions (4.21 %)"
+    },
+    {
+      "trait": "Sad Dot",
+      "weight": "5",
+      "occurrence": "75 in 4447 editions (1.69 %)"
+    },
+    {
+      "trait": "Sad",
+      "weight": "5",
+      "occurrence": "62 in 4447 editions (1.39 %)"
+    },
+    {
+      "trait": "Sand",
+      "weight": "9",
+      "occurrence": "150 in 4447 editions (3.37 %)"
+    },
+    {
+      "trait": "Snake",
+      "weight": "9",
+      "occurrence": "140 in 4447 editions (3.15 %)"
+    },
+    {
+      "trait": "Tears",
+      "weight": "7",
+      "occurrence": "107 in 4447 editions (2.41 %)"
+    },
+    {
+      "trait": "Vine",
+      "weight": "9",
+      "occurrence": "149 in 4447 editions (3.35 %)"
+    },
+    {
+      "trait": "Violet Ink",
+      "weight": "10",
+      "occurrence": "165 in 4447 editions (3.71 %)"
+    },
+    {
+      "trait": "Water",
+      "weight": "9",
+      "occurrence": "139 in 4447 editions (3.13 %)"
+    },
+    {
+      "trait": "White Air",
+      "weight": "10",
+      "occurrence": "174 in 4447 editions (3.91 %)"
+    },
+    {
+      "trait": "Yellow",
+      "weight": "10",
+      "occurrence": "163 in 4447 editions (3.67 %)"
+    },
+    {
+      "trait": "Zebra",
+      "weight": "7",
+      "occurrence": "143 in 4447 editions (3.22 %)"
+    }
+  ],
+  "Eyebrow": [
+    {
+      "trait": "2some Brown Boylover",
+      "weight": "10",
+      "occurrence": "68 in 4447 editions (1.53 %)"
+    },
+    {
+      "trait": "Alligator N",
+      "weight": "5",
+      "occurrence": "38 in 4447 editions (0.85 %)"
+    },
+    {
+      "trait": "Alligator Reversed N",
+      "weight": "9",
+      "occurrence": "59 in 4447 editions (1.33 %)"
+    },
+    {
+      "trait": "Also Black Boylover",
+      "weight": "10",
+      "occurrence": "70 in 4447 editions (1.57 %)"
+    },
+    {
+      "trait": "Angry Hell",
+      "weight": "9",
+      "occurrence": "54 in 4447 editions (1.21 %)"
+    },
+    {
+      "trait": "Angry N",
+      "weight": "9",
+      "occurrence": "60 in 4447 editions (1.35 %)"
+    },
+    {
+      "trait": "Angry Pink",
+      "weight": "9",
+      "occurrence": "71 in 4447 editions (1.60 %)"
+    },
+    {
+      "trait": "Angry White",
+      "weight": "9",
+      "occurrence": "58 in 4447 editions (1.30 %)"
+    },
+    {
+      "trait": "Big Hell Point",
+      "weight": "9",
+      "occurrence": "81 in 4447 editions (1.82 %)"
+    },
+    {
+      "trait": "Big Surprised Brown",
+      "weight": "5",
+      "occurrence": "34 in 4447 editions (0.76 %)"
+    },
+    {
+      "trait": "Brown Boylover",
+      "weight": "10",
+      "occurrence": "71 in 4447 editions (1.60 %)"
+    },
+    {
+      "trait": "Brown",
+      "weight": "3",
+      "occurrence": "30 in 4447 editions (0.67 %)"
+    },
+    {
+      "trait": "Caterpillar Hell",
+      "weight": "5",
+      "occurrence": "41 in 4447 editions (0.92 %)"
+    },
+    {
+      "trait": "Caterpillar N",
+      "weight": "5",
+      "occurrence": "35 in 4447 editions (0.79 %)"
+    },
+    {
+      "trait": "Caterpillar Surpriced Hell",
+      "weight": "5",
+      "occurrence": "30 in 4447 editions (0.67 %)"
+    },
+    {
+      "trait": "Caterpillar Surpriced N",
+      "weight": "5",
+      "occurrence": "42 in 4447 editions (0.94 %)"
+    },
+    {
+      "trait": "Caterpillar Surpriced White",
+      "weight": "5",
+      "occurrence": "28 in 4447 editions (0.63 %)"
+    },
+    {
+      "trait": "Caterpillar White",
+      "weight": "5",
+      "occurrence": "34 in 4447 editions (0.76 %)"
+    },
+    {
+      "trait": "Chicky Down N",
+      "weight": "5",
+      "occurrence": "33 in 4447 editions (0.74 %)"
+    },
+    {
+      "trait": "Chicky Down White",
+      "weight": "5",
+      "occurrence": "39 in 4447 editions (0.88 %)"
+    },
+    {
+      "trait": "Chicky N",
+      "weight": "7",
+      "occurrence": "47 in 4447 editions (1.06 %)"
+    },
+    {
+      "trait": "Chicky White",
+      "weight": "7",
+      "occurrence": "60 in 4447 editions (1.35 %)"
+    },
+    {
+      "trait": "Cocky Brown",
+      "weight": "3",
+      "occurrence": "25 in 4447 editions (0.56 %)"
+    },
+    {
+      "trait": "Cocky Feminist",
+      "weight": "1",
+      "occurrence": "4 in 4447 editions (0.09 %)"
+    },
+    {
+      "trait": "Cocky Schizophrenic",
+      "weight": "1",
+      "occurrence": "8 in 4447 editions (0.18 %)"
+    },
+    {
+      "trait": "Cocky Surprised Brown",
+      "weight": "5",
+      "occurrence": "38 in 4447 editions (0.85 %)"
+    },
+    {
+      "trait": "Cocky Surprised Schizophrenic",
+      "weight": "5",
+      "occurrence": "42 in 4447 editions (0.94 %)"
+    },
+    {
+      "trait": "Cry Brown",
+      "weight": "5",
+      "occurrence": "38 in 4447 editions (0.85 %)"
+    },
+    {
+      "trait": "Cry N",
+      "weight": "5",
+      "occurrence": "41 in 4447 editions (0.92 %)"
+    },
+    {
+      "trait": "Devil Boylover",
+      "weight": "10",
+      "occurrence": "78 in 4447 editions (1.75 %)"
+    },
+    {
+      "trait": "Fire Boylover",
+      "weight": "10",
+      "occurrence": "68 in 4447 editions (1.53 %)"
+    },
+    {
+      "trait": "Girl15yo Brown",
+      "weight": "7",
+      "occurrence": "48 in 4447 editions (1.08 %)"
+    },
+    {
+      "trait": "Girl15yo Cry Brown",
+      "weight": "5",
+      "occurrence": "32 in 4447 editions (0.72 %)"
+    },
+    {
+      "trait": "Girl15yo Cry N",
+      "weight": "5",
+      "occurrence": "42 in 4447 editions (0.94 %)"
+    },
+    {
+      "trait": "Girl15yo Cry Ocean",
+      "weight": "5",
+      "occurrence": "37 in 4447 editions (0.83 %)"
+    },
+    {
+      "trait": "Girl15yo Cry Pink",
+      "weight": "5",
+      "occurrence": "35 in 4447 editions (0.79 %)"
+    },
+    {
+      "trait": "Girl15yo N",
+      "weight": "7",
+      "occurrence": "55 in 4447 editions (1.24 %)"
+    },
+    {
+      "trait": "Girl15yo Ocean",
+      "weight": "7",
+      "occurrence": "50 in 4447 editions (1.12 %)"
+    },
+    {
+      "trait": "Girl15yo Pink",
+      "weight": "7",
+      "occurrence": "37 in 4447 editions (0.83 %)"
+    },
+    {
+      "trait": "Grass Black",
+      "weight": "9",
+      "occurrence": "57 in 4447 editions (1.28 %)"
+    },
+    {
+      "trait": "Green Boylover",
+      "weight": "10",
+      "occurrence": "70 in 4447 editions (1.57 %)"
+    },
+    {
+      "trait": "Middle Black Point",
+      "weight": "9",
+      "occurrence": "70 in 4447 editions (1.57 %)"
+    },
+    {
+      "trait": "Middle Hell Point",
+      "weight": "9",
+      "occurrence": "55 in 4447 editions (1.24 %)"
+    },
+    {
+      "trait": "Middle Reversed Black Point",
+      "weight": "5",
+      "occurrence": "30 in 4447 editions (0.67 %)"
+    },
+    {
+      "trait": "Middle Reversed Hell Point",
+      "weight": "5",
+      "occurrence": "39 in 4447 editions (0.88 %)"
+    },
+    {
+      "trait": "N Boylover",
+      "weight": "10",
+      "occurrence": "85 in 4447 editions (1.91 %)"
+    },
+    {
+      "trait": "Ocean Boylover",
+      "weight": "10",
+      "occurrence": "76 in 4447 editions (1.71 %)"
+    },
+    {
+      "trait": "Ocean Scar Boylover",
+      "weight": "5",
+      "occurrence": "40 in 4447 editions (0.90 %)"
+    },
+    {
+      "trait": "Pink Boylover",
+      "weight": "10",
+      "occurrence": "63 in 4447 editions (1.42 %)"
+    },
+    {
+      "trait": "SOS Boylover",
+      "weight": "10",
+      "occurrence": "71 in 4447 editions (1.60 %)"
+    },
+    {
+      "trait": "Scar Boylover",
+      "weight": "5",
+      "occurrence": "39 in 4447 editions (0.88 %)"
+    },
+    {
+      "trait": "Simple Boylover",
+      "weight": "10",
+      "occurrence": "82 in 4447 editions (1.84 %)"
+    },
+    {
+      "trait": "Small Black Point",
+      "weight": "9",
+      "occurrence": "67 in 4447 editions (1.51 %)"
+    },
+    {
+      "trait": "Small Reversed Black Point",
+      "weight": "5",
+      "occurrence": "32 in 4447 editions (0.72 %)"
+    },
+    {
+      "trait": "Snake Down N",
+      "weight": "9",
+      "occurrence": "59 in 4447 editions (1.33 %)"
+    },
+    {
+      "trait": "Snake Down White",
+      "weight": "9",
+      "occurrence": "61 in 4447 editions (1.37 %)"
+    },
+    {
+      "trait": "Snake N",
+      "weight": "5",
+      "occurrence": "38 in 4447 editions (0.85 %)"
+    },
+    {
+      "trait": "Snake White",
+      "weight": "5",
+      "occurrence": "33 in 4447 editions (0.74 %)"
+    },
+    {
+      "trait": "Surprised Black",
+      "weight": "5",
+      "occurrence": "22 in 4447 editions (0.49 %)"
+    },
+    {
+      "trait": "Surprised Brown",
+      "weight": "5",
+      "occurrence": "42 in 4447 editions (0.94 %)"
+    },
+    {
+      "trait": "Surprised Devil",
+      "weight": "5",
+      "occurrence": "24 in 4447 editions (0.54 %)"
+    },
+    {
+      "trait": "Surprised Feminist",
+      "weight": "5",
+      "occurrence": "35 in 4447 editions (0.79 %)"
+    },
+    {
+      "trait": "Surprised Fire",
+      "weight": "5",
+      "occurrence": "29 in 4447 editions (0.65 %)"
+    },
+    {
+      "trait": "Surprised Green",
+      "weight": "5",
+      "occurrence": "35 in 4447 editions (0.79 %)"
+    },
+    {
+      "trait": "Surprised Ocean",
+      "weight": "5",
+      "occurrence": "42 in 4447 editions (0.94 %)"
+    },
+    {
+      "trait": "Surprised Pink",
+      "weight": "5",
+      "occurrence": "40 in 4447 editions (0.90 %)"
+    },
+    {
+      "trait": "Surprised SOS",
+      "weight": "5",
+      "occurrence": "23 in 4447 editions (0.52 %)"
+    },
+    {
+      "trait": "Surprised Simple",
+      "weight": "5",
+      "occurrence": "34 in 4447 editions (0.76 %)"
+    },
+    {
+      "trait": "Surprised Thicc N",
+      "weight": "5",
+      "occurrence": "32 in 4447 editions (0.72 %)"
+    },
+    {
+      "trait": "Swallow Hell",
+      "weight": "5",
+      "occurrence": "44 in 4447 editions (0.99 %)"
+    },
+    {
+      "trait": "Swallow N",
+      "weight": "5",
+      "occurrence": "34 in 4447 editions (0.76 %)"
+    },
+    {
+      "trait": "Swallow Pink",
+      "weight": "5",
+      "occurrence": "29 in 4447 editions (0.65 %)"
+    },
+    {
+      "trait": "Swallow White",
+      "weight": "5",
+      "occurrence": "27 in 4447 editions (0.61 %)"
+    },
+    {
+      "trait": "The Eyebrow",
+      "weight": "10",
+      "occurrence": "89 in 4447 editions (2.00 %)"
+    },
+    {
+      "trait": "Thicc N",
+      "weight": "7",
+      "occurrence": "61 in 4447 editions (1.37 %)"
+    },
+    {
+      "trait": "White Boylover",
+      "weight": "10",
+      "occurrence": "66 in 4447 editions (1.48 %)"
+    }
+  ],
+  "Piercing": [
+    {
+      "trait": "Antitragus",
+      "weight": "9",
+      "occurrence": "80 in 4447 editions (1.80 %)"
+    },
+    {
+      "trait": "Apos",
+      "weight": "10",
+      "occurrence": "87 in 4447 editions (1.96 %)"
+    },
+    {
+      "trait": "Black Ear",
+      "weight": "10",
+      "occurrence": "101 in 4447 editions (2.27 %)"
+    },
+    {
+      "trait": "Blobs",
+      "weight": "10",
+      "occurrence": "100 in 4447 editions (2.25 %)"
+    },
+    {
+      "trait": "Bridge",
+      "weight": "3",
+      "occurrence": "28 in 4447 editions (0.63 %)"
+    },
+    {
+      "trait": "Clip",
+      "weight": "10",
+      "occurrence": "108 in 4447 editions (2.43 %)"
+    },
+    {
+      "trait": "Conch",
+      "weight": "5",
+      "occurrence": "36 in 4447 editions (0.81 %)"
+    },
+    {
+      "trait": "Dais",
+      "weight": "7",
+      "occurrence": "63 in 4447 editions (1.42 %)"
+    },
+    {
+      "trait": "Earb",
+      "weight": "9",
+      "occurrence": "96 in 4447 editions (2.16 %)"
+    },
+    {
+      "trait": "Gold Eyebrow",
+      "weight": "3",
+      "occurrence": "27 in 4447 editions (0.61 %)"
+    },
+    {
+      "trait": "Goldiron",
+      "weight": "5",
+      "occurrence": "57 in 4447 editions (1.28 %)"
+    },
+    {
+      "trait": "Heavy Metal",
+      "weight": "7",
+      "occurrence": "71 in 4447 editions (1.60 %)"
+    },
+    {
+      "trait": "Helix",
+      "weight": "3",
+      "occurrence": "34 in 4447 editions (0.76 %)"
+    },
+    {
+      "trait": "Idk",
+      "weight": "10",
+      "occurrence": "89 in 4447 editions (2.00 %)"
+    },
+    {
+      "trait": "Inacircle",
+      "weight": "9",
+      "occurrence": "83 in 4447 editions (1.87 %)"
+    },
+    {
+      "trait": "Industrial",
+      "weight": "10",
+      "occurrence": "88 in 4447 editions (1.98 %)"
+    },
+    {
+      "trait": "Iron",
+      "weight": "5",
+      "occurrence": "52 in 4447 editions (1.17 %)"
+    },
+    {
+      "trait": "Jellyfish",
+      "weight": "7",
+      "occurrence": "72 in 4447 editions (1.62 %)"
+    },
+    {
+      "trait": "Masil",
+      "weight": "10",
+      "occurrence": "103 in 4447 editions (2.32 %)"
+    },
+    {
+      "trait": "Momfreak",
+      "weight": "7",
+      "occurrence": "48 in 4447 editions (1.08 %)"
+    },
+    {
+      "trait": "Monroe",
+      "weight": "5",
+      "occurrence": "49 in 4447 editions (1.10 %)"
+    },
+    {
+      "trait": "Oops",
+      "weight": "9",
+      "occurrence": "93 in 4447 editions (2.09 %)"
+    },
+    {
+      "trait": "Pain",
+      "weight": "9",
+      "occurrence": "79 in 4447 editions (1.78 %)"
+    },
+    {
+      "trait": "Perch",
+      "weight": "1",
+      "occurrence": "8 in 4447 editions (0.18 %)"
+    },
+    {
+      "trait": "Romb",
+      "weight": "10",
+      "occurrence": "101 in 4447 editions (2.27 %)"
+    },
+    {
+      "trait": "Scircle",
+      "weight": "9",
+      "occurrence": "90 in 4447 editions (2.02 %)"
+    },
+    {
+      "trait": "Semicircle",
+      "weight": "7",
+      "occurrence": "77 in 4447 editions (1.73 %)"
+    },
+    {
+      "trait": "Septum",
+      "weight": "10",
+      "occurrence": "116 in 4447 editions (2.61 %)"
+    },
+    {
+      "trait": "Sms",
+      "weight": "5",
+      "occurrence": "38 in 4447 editions (0.85 %)"
+    },
+    {
+      "trait": "Snug",
+      "weight": "1",
+      "occurrence": "13 in 4447 editions (0.29 %)"
+    },
+    {
+      "trait": "Something",
+      "weight": "9",
+      "occurrence": "94 in 4447 editions (2.11 %)"
+    },
+    {
+      "trait": "Symbiosis",
+      "weight": "9",
+      "occurrence": "78 in 4447 editions (1.75 %)"
+    },
+    {
+      "trait": "Tragus",
+      "weight": "9",
+      "occurrence": "75 in 4447 editions (1.69 %)"
+    },
+    {
+      "trait": "Triangle",
+      "weight": "9",
+      "occurrence": "103 in 4447 editions (2.32 %)"
+    },
+    {
+      "trait": "Twoitems",
+      "weight": "10",
+      "occurrence": "106 in 4447 editions (2.38 %)"
+    },
+    {
+      "trait": "Wam",
+      "weight": "7",
+      "occurrence": "66 in 4447 editions (1.48 %)"
+    },
+    {
+      "trait": "Ygi",
+      "weight": "7",
+      "occurrence": "67 in 4447 editions (1.51 %)"
+    }
+  ],
+  "Special": [
+    {
+      "trait": "Hand Drawn 1",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 10",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 11",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 12",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 13",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 14",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 15",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 16",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 17",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 18",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 19",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 2",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 20",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 21",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 22",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 23",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 24",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 25",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 26",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 27",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 28",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 29",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 3",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 30",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 31",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 32",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 33",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 34",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 35",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 36",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 37",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 38",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 39",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 4",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 40",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 41",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 42",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 43",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 44",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 45",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 46",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 47",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 48",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 49",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 5",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 50",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 51",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 6",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 7",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 8",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    },
+    {
+      "trait": "Hand Drawn 9",
+      "weight": "1",
+      "occurrence": "1 in 4447 editions (0.02 %)"
+    }
+  ]
+}

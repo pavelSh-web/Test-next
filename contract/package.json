@@ -1,0 +1,26 @@
+{
+  "name": "move",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aptos": "^1.4.0",
+    "chai": "^4.3.7",
+    "fs": "^0.0.1-security",
+    "mocha": "^10.1.0",
+    "ts-mocha": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/expect": "^24.3.0",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^18.11.10",
+    "chai-like": "^1.1.1",
+    "chai-things": "^0.2.0"
+  }
+}
